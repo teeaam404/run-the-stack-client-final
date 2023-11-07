@@ -1,0 +1,8 @@
+/* ReputationBanner.css */
+
+.ReputationBanner {
+  background: url(../../../assets/question-mark-2492009_1280.jpg);
+  background-size: cover;
+  height: 700px;
+}
+
